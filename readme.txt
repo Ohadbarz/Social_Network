@@ -1,4 +1,3 @@
-# SPL_HW3 - 318321908_205730849
 How to run TPCMain:
 Server:
 mvn clean
